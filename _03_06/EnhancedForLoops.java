@@ -7,7 +7,7 @@ public class EnhancedForLoops {
 
   public static void main(String[] args) {
     int[] primeNumbers = { 2, 3, 5, 7, 11, 13, 17, 19 };
-    // Write an enhanced for loop to print out each prime number in the array. Comment.
+    // Write an enhanced for loop to print out each prime number in the array.
     for (int primeNumber : primeNumbers) {
       System.out.println(primeNumber);
     }
